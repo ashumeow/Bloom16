@@ -1,6 +1,6 @@
 package Bloom16;
 
-require 5.005_62;
+require 5.022;
 use strict;
 use vars qw( $VERSION );
 
